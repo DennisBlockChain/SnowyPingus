@@ -1,0 +1,51 @@
+body{
+    overflow-x: hidden !important;
+}
+.PinguImages{
+    height: 200px !important;
+}
+.TableSelect {
+    -webkit-box-shadow: 2px 3px 12px 1px #000000;
+    box-shadow: 2px 3px 12px 1px #000000;
+    border-radius: 25px;
+    padding: 2%;
+    margin: 1%;
+    width: 30rem;
+    position: relative;
+}
+.Tittle{
+    font-size: 1.25rem;
+}
+
+.noShow{
+    display: none;
+}
+
+#myNumberSnow{
+    width: 5% !important;
+    flex: inherit !important;
+    display: inline !important;
+    margin-right: 0.5rem
+}
+#myNumberPingu{
+    display: none;
+    width: 5% !important;
+    flex: inherit !important;
+    margin-right: 0.5rem;
+}
+#btn-ApproveSpender{
+    margin-right: 0.5rem;
+    display: none;
+}
+.Buttons{
+    margin: 1rem !important;  
+    padding: 1rem !important;
+}
+.input-width{
+    width: 5% !important;
+    flex: inherit !important;
+    display: inline !important;
+}
+#AddressReciever{
+    width: 25% !important;
+}
